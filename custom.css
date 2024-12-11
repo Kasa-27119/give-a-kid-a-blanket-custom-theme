@@ -1,0 +1,19 @@
+/* homepage styling */
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Palanquin:wght@100;200;300;400;500;600;700&family=Radio+Canada:ital,wght@0,300..700;1,300..700&display=swap');
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  background-color: #5AC1C8;
+  font-family: 'Palanquin', sans-serif;
+  font-weight: 700;
+}
+
+span, a {
+  color: rgb(20, 71, 29);
+}
